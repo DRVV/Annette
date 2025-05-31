@@ -1,6 +1,6 @@
-# Google Photos Carousel
+# Annette: simple Google Photos Carousel Viewer
 
-A beautiful Next.js web application that displays your recent 50 photos from Google Photos in an interactive carousel interface.
+A simple web application that displays your recent 50 photos from Google Photos in an interactive carousel interface.
 
 ## Features
 
